@@ -1,0 +1,23 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    max-height: 950px;
+    padding: 2.27rem 1.16rem;
+}
+
+.LoginBtn {
+    cursor: pointer;
+    width: 10rem;
+    padding: .77rem 0;
+    border-radius: 54px;
+    border-width: 0px;
+    margin-top: 1.27rem;
+    background-color: #1DB954;
+    text-align: center;
+    font-size: .83rem;
+    transition: background-color .25s;
+    color: #fff;
+    font-weight: 500;
+}
